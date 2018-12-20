@@ -13,4 +13,4 @@
 ### Compiles for production
 `` $ yarn build ``
 
-**This project was built with [https://github.com/facebook/create-react-app] (Create React App by Facebook)**
+**This project was built with [https://github.com/facebook/create-react-app](Create React App by Facebook)**
