@@ -1,7 +1,13 @@
 import React from 'react';
 
-const Location = () => (
-  <h1>Ciudad de Mexico</h1>
+//Destructurin ES6
+
+const Location = ({ city }) => (
+  <div>
+    <h1>
+      { city }
+    </h1>
+  </div>
 );
 
 export default Location;
